@@ -7,7 +7,7 @@
 	<name>bigdata-basic</name>
 	
 	<properties>
-		<hadoop.version>2.6.5</hadoop.version>
+		<hadoop.version>2.10.1</hadoop.version>
 		<hbase.version>1.2.4</hbase.version>
 		<hive.version>2.1.1</hive.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
